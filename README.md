@@ -1,5 +1,6 @@
 # COVID-masks-data
 This file contains the data from the sutdy reported here: In the hands of the beholder: Wearing a covid-19 mask is associated with its attractiveness.
+
 Ratings for consumer products appear in the beginning of the table, labeled, e.g., "mask.attractiveness" where the first part refers to the category of stimulus, and the second part refers to the rating question (attractiveness for attractiveness, arousal for emotional intensity). Ratings from the first wave appear with no numericals, ratings from the second wave (replication) appear with a "2" at the end.
 Frequency and duration of mask wearing appear with respective names, without numericals for the first wave, with "2" for the replication.
 In general, a "2" at the end of the variable name denotes the fact that the data comes from the replication. Notice that not all participants completed the follow-up - see variable "run2" for those who did. "Run1" codes participants who completed the first round of data collection.
