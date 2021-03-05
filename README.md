@@ -14,3 +14,5 @@ FAC1-3_1 shows participants' component scores on the three PCA components. f1-3_
 This is the essential data on which the analyses reported in the paper are based. After these you can find raw participants' answers to the survey questions. 
 
 For more data and/or questions contact Veronica Dudarev at vdudarev@mail.ubc.ca
+
+Date of dataset upload: March 5th, 2021, 11:17 am PST.
